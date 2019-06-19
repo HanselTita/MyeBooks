@@ -19,7 +19,7 @@ public class ApiUtil {
 
     public static final String QUERY_PARAMETER_KEY = "q";
     public static final String KEY ="key";
-    public static final String API_KEY ="AIzaSyAcNfCvwJyrCYjYQPUu6MEuEYBALF0tuZE";
+    public static final String API_KEY ="HERE YOU PUT IN YOUR API KEY FROM GOOGLE BOOKS";
 
     public  static  URL buildUrl(String title) {
 
